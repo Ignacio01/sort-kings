@@ -11,3 +11,5 @@ The method convertRomanToNumber() in the class King:
   It is called also when the roman number is being change by calling the Setter setRomanNumber(String romanNumber).
   
 I also Overrided the class compareTo, so when two kings have the same name, it compares the value of the roman numbers.
+
+The class main, is the example I use, which contains where I store the objects kings.
