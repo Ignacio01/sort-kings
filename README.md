@@ -1,4 +1,4 @@
-# sort-kings
+# Sort Kings by their name and Roman Numbers
 This program sorts the kings by their names, and in case they have the same names, they will be sorted by their roman number.
 
 I created a class King, with the fields:
